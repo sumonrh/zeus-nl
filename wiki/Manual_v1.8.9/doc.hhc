@@ -1,0 +1,573 @@
+<HTML>
+<HEAD>
+  <meta name="GENERATOR" content="Batch DOC TO CHM Generator - Batchwork Software">
+</HEAD>
+<BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800235">
+</OBJECT>
+<UL>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="User Manual">
+		<param name="Local" value="doc.htm#_Toc275887658">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Table of Contents">
+		<param name="Local" value="doc.htm#_Toc275887659">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="1 INTRODUCTION">
+		<param name="Local" value="doc.htm#_Toc275887660">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="1.1. Technical Capabilities">
+		<param name="Local" value="doc.htm#_Toc275887661">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="1.2. How to Use this Manual">
+		<param name="Local" value="doc.htm#_Toc275887662">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="1.3. Conventions">
+		<param name="Local" value="doc.htm#_Toc275887663">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="1.4. What is Included">
+		<param name="Local" value="doc.htm#_Toc275887664">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="1.5. System Requirements">
+		<param name="Local" value="doc.htm#_Toc275887665">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="1.6. Installing ZeusNL">
+		<param name="Local" value="doc.htm#_Toc275887666">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="1.7. Program Features">
+		<param name="Local" value="doc.htm#_Toc275887667">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2 TUTORIALS">
+		<param name="Local" value="doc.htm#_Toc275887668">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1. Tutorial 1 - Dynamic Analysis">
+		<param name="Local" value="doc.htm#_Toc275887669">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.1. Structural configuration">
+		<param name="Local" value="doc.htm#_Toc275887670">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.2. Applied loading">
+		<param name="Local" value="doc.htm#_Toc275887671">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.3. Program modules">
+		<param name="Local" value="doc.htm#_Toc275887672">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.3.1. Analysis">
+		<param name="Local" value="doc.htm#_Toc275887673">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.3.2. Materials">
+		<param name="Local" value="doc.htm#_Toc275887674">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.3.3. Sections">
+		<param name="Local" value="doc.htm#_Toc275887675">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.3.4. Element Classes">
+		<param name="Local" value="doc.htm#_Toc275887676">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.3.5. Nodes">
+		<param name="Local" value="doc.htm#_Toc275887677">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.3.6. Element Connectivity">
+		<param name="Local" value="doc.htm#_Toc275887678">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.3.7. Restraints">
+		<param name="Local" value="doc.htm#_Toc275887679">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.3.8. Time-history curves">
+		<param name="Local" value="doc.htm#_Toc275887680">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.3.9. Applied Loading">
+		<param name="Local" value="doc.htm#_Toc275887681">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.3.10. Equilibrium Stages">
+		<param name="Local" value="doc.htm#_Toc275887682">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.4. Running the analysis">
+		<param name="Local" value="doc.htm#_Toc275887683">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.5. Getting the results">
+		<param name="Local" value="doc.htm#_Toc275887684">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.5.1. Post-processor">
+		<param name="Local" value="doc.htm#_Toc275887685">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.1.5.2. Deformed Shape Viewer">
+		<param name="Local" value="doc.htm#_Toc275887686">
+		</OBJECT>
+</UL></UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.2. Tutorial 2 - Eigenvalue analysis">
+		<param name="Local" value="doc.htm#_Toc275887687">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.3. Tutorial 3 - Pushover Analysis">
+		<param name="Local" value="doc.htm#_Toc275887688">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.4. Tutorial 4 - Static Time-History Analysis">
+		<param name="Local" value="doc.htm#_Toc275887689">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="2.4.1. Structural Configuration">
+		<param name="Local" value="doc.htm#_Toc275887690">
+		</OBJECT>
+</UL></UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3 RUNNING ZeusNL">
+		<param name="Local" value="doc.htm#_Toc275887691">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.1. Analysis Types">
+		<param name="Local" value="doc.htm#_Toc275887692">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.1.1. Eigenvalue analysis">
+		<param name="Local" value="doc.htm#_Toc275887693">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.1.2. Static analysis (constant loading)">
+		<param name="Local" value="doc.htm#_Toc275887694">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.1.3. Static Pushover analysis">
+		<param name="Local" value="doc.htm#_Toc275887695">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.1.4. Adaptive pushover analysis">
+		<param name="Local" value="doc.htm#_Toc275887696">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.1.5. Static time-history analysis">
+		<param name="Local" value="doc.htm#_Toc275887697">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.1.6. Dynamic time-history analysis">
+		<param name="Local" value="doc.htm#_Toc275887698">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.1.7. Switching between analysis types">
+		<param name="Local" value="doc.htm#_Toc275887699">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.2. Basic Table Functions">
+		<param name="Local" value="doc.htm#_Toc275887700">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.3. Materials">
+		<param name="Local" value="doc.htm#_Toc275887701">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.4. Sections">
+		<param name="Local" value="doc.htm#_Toc275887702">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.5. Element Classes">
+		<param name="Local" value="doc.htm#_Toc275887703">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.5.1. Adding element classes">
+		<param name="Local" value="doc.htm#_Toc275887704">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.6. Nodes">
+		<param name="Local" value="doc.htm#_Toc275887705">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.7. Element Connectivity">
+		<param name="Local" value="doc.htm#_Toc275887706">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.8. Restraints">
+		<param name="Local" value="doc.htm#_Toc275887707">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.9 Applied Loading">
+		<param name="Local" value="doc.htm#_Toc275887708">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.9.1. Applying initial loads">
+		<param name="Local" value="doc.htm#_Toc275887709">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.9.2. Applying loads for pushover analysis">
+		<param name="Local" value="doc.htm#_Toc275887710">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.9.3. Applying loads for static time-history analysis">
+		<param name="Local" value="doc.htm#_Toc275887711">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.9.4. Applying loads for dynamic time-history analysis">
+		<param name="Local" value="doc.htm#_Toc275887712">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.10. ZeusNL Settings">
+		<param name="Local" value="doc.htm#_Toc275887713">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.10.1. General tab">
+		<param name="Local" value="doc.htm#_Toc275887714">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.10.2. Template">
+		<param name="Local" value="doc.htm#_Toc275887715">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.10.3. Integration scheme">
+		<param name="Local" value="doc.htm#_Toc275887716">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.10.4. Iterative strategy">
+		<param name="Local" value="doc.htm#_Toc275887717">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.10.5. Convergence criteria">
+		<param name="Local" value="doc.htm#_Toc275887718">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.10.6. Output">
+		<param name="Local" value="doc.htm#_Toc275887719">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.10.7. Eigenvalue">
+		<param name="Local" value="doc.htm#_Toc275887720">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.11. Other facilities">
+		<param name="Local" value="doc.htm#_Toc275887721">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.11.1. Template">
+		<param name="Local" value="doc.htm#_Toc275887722">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.11.2. Data Entry table">
+		<param name="Local" value="doc.htm#_Toc275887723">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.12. Getting the results">
+		<param name="Local" value="doc.htm#_Toc275887724">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.12.1. Post-Processor">
+		<param name="Local" value="doc.htm#_Toc275887725">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.12.1.1. Post-Processor settings">
+		<param name="Local" value="doc.htm#_Toc275887726">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.12.1.2. Table Output facility">
+		<param name="Local" value="doc.htm#_Toc275887727">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.12.2. Deformed Shape Viewer">
+		<param name="Local" value="doc.htm#_Toc275887728">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.12.2.1. Deformed Shape Viewer settings">
+		<param name="Local" value="doc.htm#_Toc275887729">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="3.12.2.2. Create a movie of the analysis">
+		<param name="Local" value="doc.htm#_Toc275887730">
+		</OBJECT>
+</UL></UL></UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="4 ADVANCED SUBJECTS">
+		<param name="Local" value="doc.htm#_Toc275887731">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="4.1. Adaptive Pushover Procedure">
+		<param name="Local" value="doc.htm#_Toc275887732">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="4.1.1. Theoretical background">
+		<param name="Local" value="doc.htm#_Toc275887733">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="4.1.2. Running Adaptive Pushover">
+		<param name="Local" value="doc.htm#_Toc275887734">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="4.2. Structural Gaps">
+		<param name="Local" value="doc.htm#_Toc275887735">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="4.3. Background processing">
+		<param name="Local" value="doc.htm#_Toc275887736">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="4.3.1. ZeusNL input data files (.dat)">
+		<param name="Local" value="doc.htm#_Toc275887737">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="4.3.2. What happens when a project is running?">
+		<param name="Local" value="doc.htm#_Toc275887738">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="4.3.3.List of ZeusNL input and output files">
+		<param name="Local" value="doc.htm#_Toc275887739">
+		</OBJECT>
+</UL></UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Appendix A - Materials">
+		<param name="Local" value="doc.htm#_Toc275887740">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="stl0">
+		<param name="Local" value="doc.htm#_Toc275887741">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="stl1">
+		<param name="Local" value="doc.htm#_Toc275887742">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="stl2">
+		<param name="Local" value="doc.htm#_Toc275887743">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="stl3">
+		<param name="Local" value="doc.htm#_Toc275887744">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="con1">
+		<param name="Local" value="doc.htm#_Toc275887745">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="con2">
+		<param name="Local" value="doc.htm#_Toc275887746">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="con3">
+		<param name="Local" value="doc.htm#_Toc275887747">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="con4">
+		<param name="Local" value="doc.htm#_Toc275887748">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="ecc">
+		<param name="Local" value="doc.htm#_Toc275887749">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="frp1">
+		<param name="Local" value="doc.htm#_Toc275887750">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Appendix B - Sections">
+		<param name="Local" value="doc.htm#_Toc275887751">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="rss">
+		<param name="Local" value="doc.htm#_Toc275887752">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="css">
+		<param name="Local" value="doc.htm#_Toc275887753">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="chs">
+		<param name="Local" value="doc.htm#_Toc275887754">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="sits">
+		<param name="Local" value="doc.htm#_Toc275887755">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="alcs">
+		<param name="Local" value="doc.htm#_Toc275887756">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="pecs">
+		<param name="Local" value="doc.htm#_Toc275887757">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="fecs">
+		<param name="Local" value="doc.htm#_Toc275887758">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="rcrs">
+		<param name="Local" value="doc.htm#_Toc275887759">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="rccs">
+		<param name="Local" value="doc.htm#_Toc275887760">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="rcts">
+		<param name="Local" value="doc.htm#_Toc275887761">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="rcfws">
+		<param name="Local" value="doc.htm#_Toc275887762">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="rchrs">
+		<param name="Local" value="doc.htm#_Toc275887763">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="rchcs">
+		<param name="Local" value="doc.htm#_Toc275887764">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="rcjrs">
+		<param name="Local" value="doc.htm#_Toc275887765">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Appendix C - Elements">
+		<param name="Local" value="doc.htm#_Toc275887766">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Cubic">
+		<param name="Local" value="doc.htm#_Toc275887767">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Joint">
+		<param name="Local" value="doc.htm#_Toc275887768">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Lmass">
+		<param name="Local" value="doc.htm#_Toc275887769">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Dmass">
+		<param name="Local" value="doc.htm#_Toc275887770">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Ddamp">
+		<param name="Local" value="doc.htm#_Toc275887771">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Rdamp">
+		<param name="Local" value="doc.htm#_Toc275887772">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Appendix D - Joint Curves">
+		<param name="Local" value="doc.htm#_Toc275887773">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="lin">
+		<param name="Local" value="doc.htm#_Toc275887774">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="smtr">
+		<param name="Local" value="doc.htm#_Toc275887775">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="astr">
+		<param name="Local" value="doc.htm#_Toc275887776">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="hsc">
+		<param name="Local" value="doc.htm#_Toc275887777">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="hsv">
+		<param name="Local" value="doc.htm#_Toc275887778">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="hfc">
+		<param name="Local" value="doc.htm#_Toc275887779">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="hfv">
+		<param name="Local" value="doc.htm#_Toc275887780">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Appendix E - Local and Global axes">
+		<param name="Local" value="doc.htm#_Toc275887781">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="Appendix F - The ZBeer Utility">
+		<param name="Local" value="doc.htm#_Toc275887782">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.1 Overview">
+		<param name="Local" value="doc.htm#_Toc275887783">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.2. Theoretical background">
+		<param name="Local" value="doc.htm#_Toc275887784">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.2.1 Static pushover analysis">
+		<param name="Local" value="doc.htm#_Toc275887785">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.2.2 Dynamic pushover analysis">
+		<param name="Local" value="doc.htm#_Toc275887786">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.3 Using ZBeer">
+		<param name="Local" value="doc.htm#_Toc275887787">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.3.1 The File List">
+		<param name="Local" value="doc.htm#_Toc275887788">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.3.2 The Monitor List">
+		<param name="Local" value="doc.htm#_Toc275887789">
+		</OBJECT>
+<UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.3.2.1 Base shear vs Drift">
+		<param name="Local" value="doc.htm#_Toc275887790">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.3.2.2 Story shear vs Drift">
+		<param name="Local" value="doc.htm#_Toc275887791">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.3.2.3 Element moment vs Section curvature">
+		<param name="Local" value="doc.htm#_Toc275887792">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.3.2.4 Tips and tricks">
+		<param name="Local" value="doc.htm#_Toc275887793">
+		</OBJECT>
+</UL>	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.3.3 Running the analysis">
+		<param name="Local" value="doc.htm#_Toc275887794">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.3.4 Getting the results">
+		<param name="Local" value="doc.htm#_Toc275887795">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.3.5 The Capacity Curve Discrepancy Factor (CCDF)">
+		<param name="Local" value="doc.htm#_Toc275887796">
+		</OBJECT>
+	<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="F.3.6 Case study">
+		<param name="Local" value="doc.htm#_Toc275887797">
+		</OBJECT>
+
+</UL>
+</BODY>
+</HTML>

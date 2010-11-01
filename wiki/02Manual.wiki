@@ -1,0 +1,23 @@
+#summary This page contains information about the ZEUS-NL User manual
+#labels Featured
+
+= ZEUS-NL User Manual=
+
+The ZEUS-NL User Manual provides comprehensive information necessary for users to effictively use the program.
+
+
+*_PDF file_*
+: [https://zeusnl.googlecode.com/files/Manual_v1.8.9.pdf Manual_v1.8.9.pdf]
+
+*_Web help file_*
+: <a href="https://zeusnl.googlecode.com/svn/wiki/Manual_v1.8.9.html" target="_new"> Manual_v1.8.9.html</a>
+
+
+*_Compiled HTML help file_*
+: [https://zeusnl.googlecode.com/svn/wiki/Manual_v1.8.9.chm Manual_v1.8.9.chm]
+
+{{{*}}}If you download a .chm file, but cannot see anything when opening it, try following things.
+  <img src="https://zeusnl.googlecode.com/svn/wiki/chm_fail.jpg" width="40%" height="30%">
+ * Click right mouse button on the .chm file, then select "Properties" from the pop-up menus
+  <img src="https://zeusnl.googlecode.com/svn/wiki/chm_properties.jpg" width="35%" height="25%">
+ * At the bottom of the "Properties" menu, click the "Unblock" button next to the "Security:" section
