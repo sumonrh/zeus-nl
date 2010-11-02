@@ -30,4 +30,4 @@ The sample source files provided contain all necessary subroutines for the imple
   # Debug until the material model is validated
 
 *_Check the PDF file below for more detailed description of material model implementation._*
-[https://zeusnl.googlecode.com/files/Material_Model_Implementation.pdf Material_Model_Implementation.pdf]
+[https://zeus-nl.googlecode.com/files/Material_Model_Implementation.pdf Material_Model_Implementation.pdf]
