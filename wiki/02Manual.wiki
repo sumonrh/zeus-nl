@@ -10,7 +10,7 @@ The ZEUS-NL User Manual provides comprehensive information necessary for users t
 : [https://zeus-nl.googlecode.com/files/Manual_v1.8.9.pdf Manual_v1.8.9.pdf]
 
 *_Web help file_*
-: <a href="https://zeus-nl.googlecode.com/svn/wiki/Manual_v1.8.9.html" target="_new"> Manual_v1.8.9.html</a>
+(open with Internet Explorer) : <a href="https://zeus-nl.googlecode.com/svn/wiki/Manual_v1.8.9.html" target="_new"> Manual_v1.8.9.html</a>
 
 
 *_Compiled HTML help file_*
