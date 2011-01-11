@@ -50,7 +50,7 @@ Now MAE Center is looking for new users and contributors to its finite element a
     * Bora Gencturk
     * Oh-Sung Kwon
 
-  * ZEUS-NL Open Source Project Owners:
+  * ZEUS-NL Open Source Project Contributors:
     * Hussam Mahmoud
     * Adel Abdelnaby
     * Vassilis K. Papanikolaou
