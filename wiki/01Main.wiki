@@ -38,3 +38,38 @@ Now MAE Center is looking for new users and contributors to its finite element a
   * Additional examples
   * Documentation on the architecture of the source code
   * Verification procedures for developers
+
+
+= Development =
+  * Developed by: 
+    Mid-America Earthquake (MAE) Center in the Department of Civil at the University of Illinois at Urbana-Champaign (UIUC)
+
+  * ZEUS-NL Open source Project Owners:
+    * Amr S. Elnashai
+    * Do-Soo MOON
+    * Bora Gencturk
+    * Oh-Sung Kwon
+    * Hussam Mahmoud
+    * Adel Abdelnaby
+
+  * ZEUS-NL software Contributors:
+    * Bassam Izzudin
+    * Rui Pinho
+    * Stelios Antoniou
+    * Vassilis K. Papanikolaou
+    * Do Hyung Lee
+    * Oh-Sung Kwon
+    * Do-Soo Moon
+    * Bora Gencturk
+    * Panos Madas
+    * Enrique Martinez-Rueda
+    * Ahmed Elghazouli
+    * Jason Beith
+    * Brian Broderick
+    * Christos Karayiannis
+    * Weimin Gho
+    * Jose Parra-Rosales
+    * Rui Pinho
+    * Danesh Ashtiani
+    * Masato Tsujii
+    * Roderick Googfellow
