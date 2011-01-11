@@ -44,15 +44,18 @@ Now MAE Center is looking for new users and contributors to its finite element a
   * Developed by: 
     Mid-America Earthquake (MAE) Center in the Department of Civil at the University of Illinois at Urbana-Champaign (UIUC)
 
-  * ZEUS-NL Open source Project Owners:
+  * ZEUS-NL Open Source Project Owners:
     * Amr S. Elnashai
-    * Do-Soo MOON
+    * Do-Soo Moon
     * Bora Gencturk
     * Oh-Sung Kwon
+
+  * ZEUS-NL Open Source Project Owners:
     * Hussam Mahmoud
     * Adel Abdelnaby
+    * Vassilis K. Papanikolaou
 
-  * ZEUS-NL software Contributors:
+  * ZEUS-NL Software Developers:
     * Bassam Izzudin
     * Rui Pinho
     * Stelios Antoniou
