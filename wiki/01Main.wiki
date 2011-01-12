@@ -52,10 +52,10 @@ Now MAE Center is looking for new users and contributors to its finite element a
     * Do-Soo Moon
     * Bora Gencturk
     * Oh-Sung Kwon
-    
-  * Individuals who have contributed to the development of ZEUS-NL 
     * Adel Abdelnaby
     * Hussam Mahmoud
+    
+  * Individuals who have contributed to the development of ZEUS-NL 
     * Bassam Izzudin
     * Rui Pinho
     * Stelios Antoniou
