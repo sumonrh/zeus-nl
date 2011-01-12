@@ -42,11 +42,9 @@ Now MAE Center is looking for new users and contributors to its finite element a
 
 = Development and Support =
   * Owned by
-    Mid-America Earthquake (MAE) Center
-
-    Department of Civil and Environmental Engineering
-
-    University of Illinois at Urbana-Champaign
+  Mid-America Earthquake (MAE) Center <br />
+  Department of Civil and Environmental Engineering <br />
+  University of Illinois at Urbana-Champaign <br />
 
   * Current Support Team
     * Amr S. Elnashai
