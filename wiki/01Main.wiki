@@ -55,7 +55,7 @@ Now MAE Center is looking for new users and contributors to its finite element a
     * Adel Abdelnaby
     * Hussam Mahmoud
     
-  * Individuals who have contributed to the development of ZEUS-NL 
+  * Individuals who have contributed to the development and extensive use of ZEUS-NL 
     * Bassam Izzudin
     * Rui Pinho
     * Stelios Antoniou
@@ -72,7 +72,6 @@ Now MAE Center is looking for new users and contributors to its finite element a
     * Christos Karayiannis
     * Weimin Gho
     * Jose Parra-Rosales
-    * Rui Pinho
     * Danesh Ashtiani
     * Masato Tsujii
     * Roderick Googfellow
