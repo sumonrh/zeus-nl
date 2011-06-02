@@ -75,3 +75,7 @@ Now MAE Center is looking for new users and contributors to its finite element a
     * Danesh Ashtiani
     * Masato Tsujii
     * Roderick Googfellow
+
+<wiki:comment>
+updated as of Jun 01, 2011
+</wiki:comment>
