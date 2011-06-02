@@ -31,7 +31,7 @@ The sample source files provided contain all necessary subroutines for the imple
   # After finishing coding, compile modified source files (refer to documentation on “ZEUS-NL compilation procedure”)
   # Debug until the material model is validated
 
-*_Check the PDF file below for more detailed description of material model implementation._*
+*_Check the PDF file below for more detailed description of material model implementation._* <br />
 [https://zeus-nl.googlecode.com/files/Material_Model_Implementation.pdf Material_Model_Implementation.pdf]
 
 {{{
