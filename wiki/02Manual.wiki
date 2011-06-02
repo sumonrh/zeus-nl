@@ -21,3 +21,7 @@ The ZEUS-NL User Manual provides comprehensive information necessary for users t
  * Click right mouse button on the .chm file, then select "Properties" from the pop-up menus
   <img src="https://zeus-nl.googlecode.com/svn/wiki/chm_properties.jpg" width="35%" height="25%">
  * At the bottom of the "Properties" menu, click the "Unblock" button next to the "Security:" section
+
+<wiki:comment>
+updated as of Jun 01, 2011
+</wiki:comment>
