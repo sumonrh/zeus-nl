@@ -31,7 +31,7 @@ The provided sample source files contain all necessary subroutines for the imple
   # After finishing coding, compile modified source files (refer to documentation on “ZEUS-NL compilation procedure”)
   # Debug until the element model is validated
 
-*_Check the PDF file below for more detailed description of element model implementation._*
+*_Check the PDF file below for more detailed description of element model implementation._* <br />
 [https://zeus-nl.googlecode.com/files/Element_Model_Implementation.pdf Element_Model_Implementation.pdf]
 
 {{{
