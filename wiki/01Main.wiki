@@ -10,6 +10,9 @@ With this project ZEUS-NL becomes open source allowing users to add their own fe
 
 Now MAE Center is looking for new users and contributors to its finite element analysis package ZEUS-NL.
 
+{{{
+}}}
+
 
 = What is included? = 
 
@@ -31,6 +34,9 @@ Now MAE Center is looking for new users and contributors to its finite element a
     * [07ElementModelImplementation Implementing an element model in ZEUS-NL]
   * A [08ReferenceLists list of references] (with links to original articles) that include results from ZEUS-NL
 
+{{{
+}}}
+
 
 = In the recent future =
 
@@ -38,6 +44,9 @@ Now MAE Center is looking for new users and contributors to its finite element a
   * Additional examples
   * Documentation on the architecture of the source code
   * Verification procedures for developers
+
+{{{
+}}}
 
 
 = Development and Support =
@@ -75,6 +84,10 @@ Now MAE Center is looking for new users and contributors to its finite element a
     * Danesh Ashtiani
     * Masato Tsujii
     * Roderick Googfellow
+
+{{{
+}}}
+
 
 <wiki:comment>
 updated as of Jun 01, 2011
