@@ -21,9 +21,9 @@ The ZEUS-NL User Manual provides comprehensive information necessary for users t
 : [https://zeus-nl.googlecode.com/svn/wiki/Manual_v1.8.9.chm Manual_v1.8.9.chm]
 
  * If you download a .chm file, but cannot see anything when opening it, try following things.
-  <img src="https://zeus-nl.googlecode.com/svn/wiki/chm_fail.jpg" width="40%">
+  <img src="https://zeus-nl.googlecode.com/svn/wiki/chm_fail.jpg" width="65%">
  * Click right mouse button on the .chm file, then select "Properties" from the pop-up menus
-  <img src="https://zeus-nl.googlecode.com/svn/wiki/chm_properties.jpg" width="35%">
+  <img src="https://zeus-nl.googlecode.com/svn/wiki/chm_properties.jpg" width="45%">
  * At the bottom of the "Properties" menu, click the "Unblock" button next to the "Security:" section
 
 <wiki:comment>
