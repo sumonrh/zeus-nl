@@ -1,6 +1,8 @@
 #summary This page describes running ZEUS-NL from command window in batch mode.
 #labels Featured
 
+{{{
+}}}
 
 = Running ZEUS-NL in Batch Mode =
 
@@ -28,3 +30,11 @@ The set of commands provided above can be collected in a file with “bat” ext
 Another file that users can make use of is the “nod” file. This file is required for users to post-process the results using Graphic User Interface (GUI) of ZEUS-NL. For GUI to be able to read the results that are stored in “result.num” according to above syntax the “result.nod” file is required. The filename should be the same as the output filename in this case “result.num”. For post-processing with GUI, the input file with “dat” extension is not required if the “num” and “nod” files exist.
 
 If this procedure is to be repeated for several analyses, the user has to make sure that the “result.num” file is deleted before running the next analysis, otherwise, ZEUS-NL will not write on the existing file. To do this automatically the following line could be added to the end of the above set of commands: “<font color='red'>del</font> result.num”.
+
+{{{
+}}}
+
+
+<wiki:comment>
+updated as of Jun 01, 2011
+</wiki:comment>
