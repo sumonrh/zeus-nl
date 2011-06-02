@@ -1,6 +1,8 @@
 #summary This page describes how to implement material models in ZEUS-NL.
 #labels Featured
 
+{{{
+}}}
 
 = Material Model Implementation in ZEUS-NL =
 
@@ -31,3 +33,11 @@ The sample source files provided contain all necessary subroutines for the imple
 
 *_Check the PDF file below for more detailed description of material model implementation._*
 [https://zeus-nl.googlecode.com/files/Material_Model_Implementation.pdf Material_Model_Implementation.pdf]
+
+{{{
+}}}
+
+
+<wiki:comment>
+updated as of Jun 01, 2011
+</wiki:comment>
