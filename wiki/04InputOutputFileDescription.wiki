@@ -1,6 +1,9 @@
 #summary This page describes the input/output file formats of ZEUS-NL.
 #labels Featured
 
+{{{
+}}}
+
 = Description of Input and Output File Formats =
 
 ZEUS-NL is based on a text input file to run. This file has a .dat extension and is also used to save the data.  The user can get an impression of what this file looks like if any file created by ZEUS-NL Graphical User Interface (GUI) is opened with a simple text editor.
@@ -18,3 +21,11 @@ The output files are:
 The PDF file below describes the input (.dat) and output (.num) file formats of ZEUS-NL in detail. 
 
 [https://zeus-nl.googlecode.com/files/Input_Output_File_Format_Description.pdf Input_Output_File_Format_Description.pdf]
+
+{{{
+}}}
+
+
+<wiki:comment>
+updated as of Jun 01, 2011
+</wiki:comment>
