@@ -1,6 +1,8 @@
 #summary This page describes the compilation procedure for ZEUS-NL.
 #labels Featured
 
+{{{
+}}}
 
 = ZEUS-NL Compilation Procedure =
 
@@ -46,3 +48,11 @@ Current Windows version of ZEUS-NL is complied with Absoft Pro Fortran for Windo
   # Build the program to generate executable files
     * g77 executable_file_name file1_name.o file2_name.o … 
 The [https://zeus-nl.googlecode.com/files/Batch_files_for_compilation_on_UNIX.zip  batch files] for step 2 and 3 are available on our website.
+
+{{{
+}}}
+
+
+<wiki:comment>
+updated as of Jun 01, 2011
+</wiki:comment>
