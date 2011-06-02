@@ -1,39 +1,71 @@
-#summary This page describes how to implement element models in ZEUS-NL.
+#summary This page lists Frequently Asked Questions (FAQ) and answers.
 #labels Featured
 
 {{{
 }}}
 
-= Element Model Implementation in ZEUS-NL =
-
-The PDF file below describes briefly how to implement element models in ZEUS-NL.
-
-[https://zeus-nl.googlecode.com/files/Element_Model_Implementation.pdf Element_Model_Implementation.pdf]
-
-Sample source files are also provided for an example element model.
+= Frequently Asked Questions (FAQ) =
 
 
-
-=== Example element model ===
-
-Example element model is the lumped mass model (lmass). Following element name and number is used for an example element model in ZEUS-NL.
-  * Element name : em35
-  * Element number : 35
+----------------------------------------------------------------------
 
 
-=== Provided source code ===
+=== Virus in ZEUS-NL installation file ===
 
-The provided sample source files contain all necessary subroutines for the implementation of a new element model. Only the subroutines in these files are needed to be modified to meet the requirements of the new element model.
-  * Source file for the Reader of ZEUS-NL : em35.f
-  * Source file for the Solver of ZEUS-NL : EM35.f
+Q: Why do some anti-virus software block ZEUS-NL files?
+
+A:
+{{{
+ZEUS-NL installation files on our website are free from virus.
+
+But some of the installation files are identified as harmful by anti-virus software such as McAfee, in reality they are not.
+
+To work around that please add the folder where you install ZEUS-NL, it changes depending on the operating system that you use but usually under “Program Files”, to the exceptions of the anti-virus program. Once you add the exception you should not have problem installing it.
+}}}
 
 
-=== Implementation Procedure ===
+----------------------------------------------------------------------
 
-  # Modify/Update provided source FORTRAN files (em35.f and EM35.f) based on your own element model
-    * In both source files, carefully read the comments in each subroutine and understand how each subroutine works before getting started with the new model
-  # After finishing coding, compile modified source files (refer to documentation on “ZEUS-NL compilation procedure”)
-  # Debug until the element model is validated
+
+=== Number Formatting ===
+
+Q: I have a problem with loading example input files.
+
+A:
+{{{
+This problem might be related to the number formatting (whether the point or the comma is used as either decimal mark or digit group separator).
+
+Please change settings in the “Regional and Language Options” as follows.
+ * Open the "Regional and Language Options" in Control Panel (Start > Control Panel)
+ * Click “Customize” bottom in the “Regional Options” tab
+ * Use “point (.)” for “Decimal Symbol”, and “comma (,)” for “Digit Grouping Symbol”.
+}}}
+
+
+----------------------------------------------------------------------
+
+
+=== Section Curvature Command in ZEUS-NL Post-Processor ===
+
+Q: How can the section curvature calculated?
+
+A: 
+{{{
+The curvature is calculated by the formula (εt – εb)/h where εt and εb are the top and bottom layer strains respectively and h is the height of the section. Various strain layers can be selected for each
+material that constitutes the section, but then attention must be paid to the definition of the layer width (h).
+
+In order to utilize the element curvature command in ZEUS-NL post-processor, you have to specify stress/strain output setting options for your input file.
+
+When selecting "General Settings” under the pull-down menu of “Settings”, the pop-up menu “Program Settings” will appear. Then, check the “Stress/Strain output” option under the “Output” Tab. (More detailed information about the output setting can be found in section 3.10.6 of ZEUS-NL User Manual.)
+
+Once the stress/strain output option is specified, stresses/strains of two monitoring points (top and bottom fibers), of the two Gauss points, of each element, will be printed to your output file.
+
+In ZEUS-NL post-processor, element curvature is calculated from strains of top and bottom fibers and the distance between two fibers.
+}}}
+
+
+----------------------------------------------------------------------
+
 
 {{{
 }}}
