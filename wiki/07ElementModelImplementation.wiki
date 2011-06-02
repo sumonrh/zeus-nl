@@ -1,6 +1,8 @@
 #summary This page describes how to implement element models in ZEUS-NL.
 #labels Featured
 
+{{{
+}}}
 
 = Element Model Implementation in ZEUS-NL =
 
@@ -32,3 +34,11 @@ The provided sample source files contain all necessary subroutines for the imple
     * In both source files, carefully read the comments in each subroutine and understand how each subroutine works before getting started with the new model
   # After finishing coding, compile modified source files (refer to documentation on “ZEUS-NL compilation procedure”)
   # Debug until the element model is validated
+
+{{{
+}}}
+
+
+<wiki:comment>
+updated as of Jun 01, 2011
+</wiki:comment>
