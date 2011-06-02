@@ -20,7 +20,12 @@ In order to compile the source code of ZEUS-NL which is written in FORTRAN 77, a
 ==== Complier ====
 Current Windows version of ZEUS-NL is complied with Absoft Pro Fortran for Windows v7.5.
 
+ <img src="https://zeus-nl.googlecode.com/svn/wiki/Compilation_Procedure_files/image002.jpg"  width="65%">
+
+<wiki:comment>
  <img src="https://zeus-nl.googlecode.com/svn/wiki/Compilation_Procedure_files/image002.jpg"  width="70%" height="60%">
+</wiki:comment>
+
  
 ==== Source Files ====
   * Source code of ZEUS-NL consists of two parts: “Reader” and “Solver”
@@ -37,8 +42,14 @@ Current Windows version of ZEUS-NL is complied with Absoft Pro Fortran for Windo
   # Compile the modifies source files to generate object files
     * Here, it is important to check the compilation options. After clicking the right mouse button on the file tree, select “Set Options” from the pop-up menus. In the “Options” menu, you have to carefully examine the options for the compilation.
   # Build the program to generate executable files
+  <img src="https://zeus-nl.googlecode.com/svn/wiki/Compilation_Procedure_files/image004.jpg" width="37%">
+  <img src="https://zeus-nl.googlecode.com/svn/wiki/Compilation_Procedure_files/image006.jpg" width="35%">
+
+<wiki:comment>
   <img src="https://zeus-nl.googlecode.com/svn/wiki/Compilation_Procedure_files/image004.jpg" width="40%" height="40%">
   <img src="https://zeus-nl.googlecode.com/svn/wiki/Compilation_Procedure_files/image006.jpg" width="38%" height="38%">
+</wiki:comment>
+
 
 === Compiling ZEUS-NL on UNIX/LINUX with gfortran ===
   # Modify/Update necessary source files including header files ({{{*}}}.inc)
