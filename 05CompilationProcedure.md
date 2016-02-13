@@ -1,0 +1,66 @@
+
+```
+```
+
+# ZEUS-NL Compilation Procedure #
+
+The PDF file below describes how to complile ZEUS-NL in Windows and Unix systems.
+
+[Compilation\_Procedure.pdf](https://zeus-nl.googlecode.com/files/Compilation_Procedure.pdf)
+
+This information is useful for users who want to implement their own material/element/joint models into ZEUS-NL and/or need to build the program from modified source files.
+
+In order to compile the source code of ZEUS-NL which is written in FORTRAN 77, an f77 compiler is required. The preferred compiler for Windows platform is Absoft Pro Fortran. For UNIX/LINUX systems GNU FORTRAN compilers (g77, gfortran) could be used. In the flowing sections, instructions for the compilation procedure with Absoft Pro Fortran and gfortran are provided.
+
+
+### Compiling ZEUS-NL on Windows with Absoft Pro Fortran ###
+
+#### Complier ####
+Current Windows version of ZEUS-NL is complied with Absoft Pro Fortran for Windows v7.5.
+
+> <img src='https://zeus-nl.googlecode.com/svn/wiki/Compilation_Procedure_files/image002.jpg' width='65%'></li></ul>
+
+<a href='Hidden comment: 
+<img src="https://zeus-nl.googlecode.com/svn/wiki/Compilation_Procedure_files/image002.jpg"  width="70%" height="60%">
+'></a><br>
+<br>
+<br>
+<h4>Source Files ####
+  * Source code of ZEUS-NL consists of two parts: “Reader” and “Solver”
+  * File extension
+    * `*`.f : FORTRAN files
+    * `*`.obj : object files
+    * `*`.gui : Absoft project file
+
+#### Compiling on Windows Systems ####
+  1. Open the project file (reader.gui or solver.gui) with the Absoft Pro Fortran
+    * The project (or solution) file with the extension of .gui contains all source files (FORTRAN 77 files and header files).
+    * The Absoft project files are also provided with FORTRAN source files on our website.
+  1. Modify/Update necessary source files including header files (`*`.inc)
+  1. Compile the modifies source files to generate object files
+    * Here, it is important to check the compilation options. After clicking the right mouse button on the file tree, select “Set Options” from the pop-up menus. In the “Options” menu, you have to carefully examine the options for the compilation.
+  1. Build the program to generate executable files
+> <img src='https://zeus-nl.googlecode.com/svn/wiki/Compilation_Procedure_files/image004.jpg' width='37%'>
+<blockquote><img src='https://zeus-nl.googlecode.com/svn/wiki/Compilation_Procedure_files/image006.jpg' width='35%'></blockquote>
+
+<a href='Hidden comment: 
+<img src="https://zeus-nl.googlecode.com/svn/wiki/Compilation_Procedure_files/image004.jpg" width="40%" height="40%">
+<img src="https://zeus-nl.googlecode.com/svn/wiki/Compilation_Procedure_files/image006.jpg" width="38%" height="38%">
+'></a><br>
+<br>
+<br>
+<h3>Compiling ZEUS-NL on UNIX/LINUX with gfortran</h3>
+<ol><li>Modify/Update necessary source files including header files (<code>*</code>.inc)<br>
+</li><li>Compile the modifies source files to generate object files<br>
+<ul><li>g77 -c file_name.f<br>
+</li><li>option ‘-c’: make object file<br>
+</li></ul></li><li>Build the program to generate executable files<br>
+<ul><li>g77 executable_file_name file1_name.o file2_name.o …<br>
+The <a href='https://zeus-nl.googlecode.com/files/Batch_files_for_compilation_on_UNIX.zip'>batch files</a> for step 2 and 3 are available on our website.</li></ul></li></ol>
+
+<pre><code></code></pre>
+
+
+<a href='Hidden comment: 
+updated as of Jun 01, 2011
+'></a>

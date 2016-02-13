@@ -1,0 +1,41 @@
+
+```
+```
+
+# Material Model Implementation in ZEUS-NL #
+
+This page how to implement material models in ZEUS-NL. Sample source files are also provided for an example material model.
+
+
+
+### Example material model ###
+
+Example material models are the bilinear elasto-plastic model with kinematic strain-hardening for steel material (stl1) and trilinear concrete model (con1). Following material names and numbers are used for example material models in ZEUS-NL.
+  * Material name : mm11 & mm12
+  * Material number : 11 & 12
+
+
+### Provided source code ###
+
+The sample source files provided contain all necessary subroutines for the implementation of a new material model. Only the subroutines in these files are needed to be modified to meet the requirements of the new material model.
+  * Source file for the Reader of ZEUS-NL : mm11.f (for steel) & mm12.f (for concrete)
+  * Source file for the Solver of ZEUS-NL : MM11.f (for steel) & MM12.f (for concrete)
+
+
+### Implementation Procedure ###
+
+  1. Modify/Update provided source FORTRAN files (mm11.f and MM11.f or mm12.f and MM12.f) based on your own material model
+    * In both source files, carefully read the comments in each subroutine and understand how each subroutine works before getting started with the new model
+  1. After finishing coding, compile modified source files (refer to documentation on “ZEUS-NL compilation procedure”)
+  1. Debug until the material model is validated
+
+**_Check the PDF file below for more detailed description of material model implementation._** <br />
+[Material\_Model\_Implementation.pdf](https://zeus-nl.googlecode.com/files/Material_Model_Implementation.pdf)
+
+```
+```
+
+
+<a href='Hidden comment: 
+updated as of Jun 01, 2011
+'></a>

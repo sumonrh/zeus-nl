@@ -1,0 +1,41 @@
+
+```
+```
+
+# Element Model Implementation in ZEUS-NL #
+
+This page describes briefly how to implement element models in ZEUS-NL. Sample source files are also provided for an example element model.
+
+
+
+### Example element model ###
+
+Example element model is the lumped mass model (lmass). Following element name and number is used for an example element model in ZEUS-NL.
+  * Element name : em35
+  * Element number : 35
+
+
+### Provided source code ###
+
+The provided sample source files contain all necessary subroutines for the implementation of a new element model. Only the subroutines in these files are needed to be modified to meet the requirements of the new element model.
+  * Source file for the Reader of ZEUS-NL : em35.f
+  * Source file for the Solver of ZEUS-NL : EM35.f
+
+
+### Implementation Procedure ###
+
+  1. Modify/Update provided source FORTRAN files (em35.f and EM35.f) based on your own element model
+    * In both source files, carefully read the comments in each subroutine and understand how each subroutine works before getting started with the new model
+  1. After finishing coding, compile modified source files (refer to documentation on “ZEUS-NL compilation procedure”)
+  1. Debug until the element model is validated
+
+**_Check the PDF file below for more detailed description of element model implementation._** <br />
+[Element\_Model\_Implementation.pdf](https://zeus-nl.googlecode.com/files/Element_Model_Implementation.pdf)
+
+```
+```
+
+
+<a href='Hidden comment: 
+updated as of Jun 01, 2011
+'></a>

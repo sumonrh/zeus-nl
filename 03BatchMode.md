@@ -1,0 +1,38 @@
+
+```
+```
+
+# Running ZEUS-NL in Batch Mode #
+
+
+The PDF file below describes running ZEUS-NL from command window in batch mode.
+
+[Batch\_Mode.pdf](https://zeus-nl.googlecode.com/files/Batch_Mode.pdf)
+
+This information is useful for running several analyses using some scripting language such as C, C++, or Matlab.
+
+ZEUS-NL analysis engine is basically composed of two executable files: “Reader” and “Solver”. “Reader” reads the ZEUS-NL input files with “dat” extension and creates a set of files to be read by the “Solver”. The user can check whether the input file is successfully read or not from the file with “out” extension created by the “Reader”. This file is copy of the input file that includes errors (if any). For “Solver” to run there should be no error messages in this “out” file.
+
+The syntax for running analysis in batch mode is provided below. Note that the executable files “Reader” and “Solver” as well as the input ZEUS-NL file has to be in the same directory.
+
+<p><font color='red'>copy</font> inputfilename.dat running.dat</p>
+<p>reader running tmp.zzz</p>
+<p>solver running tmp.zzz</p>
+<p><font color='red'>rename</font> running.num result.num</p>
+<p><font color='red'>rename</font> running.nod result.nod</p>
+<p><font color='red'>del</font> running.<code>*</code></p>
+<p><font color='red'>del</font> tmp.zzz</p>
+
+The set of commands provided above can be collected in a file with “bat” extension (for windows systems) such as “RunZEUS.bat” and can be run all at once by calling “RunZEUS.bat”. Note that the commands that are shown in red in the above syntax are dos commands. For other operating systems one has to replace these commands with their equivalents.
+
+Another file that users can make use of is the “nod” file. This file is required for users to post-process the results using Graphic User Interface (GUI) of ZEUS-NL. For GUI to be able to read the results that are stored in “result.num” according to above syntax the “result.nod” file is required. The filename should be the same as the output filename in this case “result.num”. For post-processing with GUI, the input file with “dat” extension is not required if the “num” and “nod” files exist.
+
+If this procedure is to be repeated for several analyses, the user has to make sure that the “result.num” file is deleted before running the next analysis, otherwise, ZEUS-NL will not write on the existing file. To do this automatically the following line could be added to the end of the above set of commands: “<font color='red'>del</font> result.num”.
+
+```
+```
+
+
+<a href='Hidden comment: 
+updated as of Jun 01, 2011
+'></a>
